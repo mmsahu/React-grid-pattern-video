@@ -1,2 +1,2 @@
 # React-grid-pattern-video
-This is a pattern video file
+This pattern is a video file
